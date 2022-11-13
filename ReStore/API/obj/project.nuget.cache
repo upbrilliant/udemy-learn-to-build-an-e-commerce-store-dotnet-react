@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NfMhJd6/CM8eRHI1X5D4ivivq84iJRLSFH8c0pj9QUJn6rLHA+q+4XDXw8ufPbltb6W4FM6HUlu2c9ZEbQzATA==",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\Udemy\\udemy-learn-to-build-an-e-commerce-store-dotnet-react\\ReStore\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Michi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Michi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Michi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Michi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Michi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
